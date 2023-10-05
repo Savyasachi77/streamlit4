@@ -28,3 +28,7 @@ df1 = pd.DataFrame({'col1':[1,2,3,4]})
 df1
 x = 10
 x
+
+df3 = df
+
+df3
